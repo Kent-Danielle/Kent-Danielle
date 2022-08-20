@@ -1,8 +1,8 @@
 # Hi, I'm Kent! 👋
 
 ## 💻I'm a CS Student and an aspiring Software Developer
-- 🔭 I’m currently working on our Web Application Project.
-- 🌱 I’m currently learning Basic Full-stack Web Development, Java, and fundamental DSA topics.
+- 🔭 I’m currently working on a <a href="https://github.com/Kent-Danielle/LFM-Bread-Inventory-App" target="_blank" rel="noreferrer"> bread inventory and ordering web app </a> for my current part-time work.
+- 🌱 I’m currently learning React, and fundamental DSA topics.
 - 👯 I’m down to collaborate on any cool project, preferably games or anything that involves data.
 - 🥅 2022 Goals: Build a full-functioning web-app using MERN Stack from scratch!
 - 📫 You could reach me through my email: kent.concengco.acads@gmail.com
